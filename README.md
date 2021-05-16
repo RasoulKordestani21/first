@@ -1,0 +1,3 @@
+# first
+this is my first repo and contains just readme
+////////////////////////////////////////////
